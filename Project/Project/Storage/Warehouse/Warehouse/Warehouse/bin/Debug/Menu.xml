@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<menu name="MAIN MENU">
+
+<screen Name="screen">
+  <item ID="z" Text="MAIN MENU:"></item>
+  <item ID="zero" Text="0 Exit program"></item>
+  <item ID="one" Text="1 View a list of products"> 
+       </item>
+  <item ID="two" Text="2 Search product by attributes">
+       </item>
+  <item ID="tree" Text="3 Special Functions">
+      </item>
+</screen>
+  </menu>

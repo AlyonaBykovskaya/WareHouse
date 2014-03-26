@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu name="MENU">
+
+  <screen Name="screen">
+    <item ID="one" Text="1 - Save backup for products"></item>
+    <item ID="two" Text="2 - Save backup for users">
+    </item>
+    <item ID="tree" Text="3 - Download products">
+    </item>
+    <item ID="four" Text="4 - Upload users">
+    </item>
+  </screen>
+</menu>
+

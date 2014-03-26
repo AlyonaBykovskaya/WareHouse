@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu name="MENU">
+
+  <screen Name="screen">
+    <item ID="zero" Text="0 - Go to the main menu"></item>
+    <item ID="one" Text="1 - Back to list view">
+    </item>
+  </screen>
+</menu>

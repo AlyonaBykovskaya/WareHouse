@@ -1,0 +1,16 @@
+Login;Password;Name;Surname;YearOfBirth;Gender;Role
+TP;100;Anatoliy;Petrov;12.05.1980 0:00:00;man;user
+SI;200;Sergey;Ivanov;12.08.1970 0:00:00;man;administrator
+PS;300;Petr;Sidorov;15.03.1985 0:00:00;man;manager
+IK;400;Ivan;Kirillov;16.03.1979 0:00:00;man;user
+VM;500;Vladimir;Mayakovsky;17.03.1968 0:00:00;man;user
+SE;600;Sergey;Esenin;18.03.1990 0:00:00;man;user
+AP;700;Aleksandr;Pushkin;19.05.1980 0:00:00;man;user
+ML;800;Mihail;Lermontov;20.08.1985 0:00:00;man;user
+IB;900;Ivan;Bunin;21.06.1985 0:00:00;man;user
+NN;101;Nikolay;Nekrasov;22.03.1975 0:00:00;man;user
+LT;102;Lev;Tolstoy;12.05.1975 0:00:00;man;user
+FD;103;Fedor;Dostoevskiy;13.07.1980 0:00:00;man;user
+AA;104;Anna;Ahmatova;14.09.1985 0:00:00;woman;user
+MT;105;Marina;Tsvetaeva;15.11.1980 0:00:00;woman;user
+AG;106;Aleksandr;Griboedov;16.04.1980 0:00:00;man;user

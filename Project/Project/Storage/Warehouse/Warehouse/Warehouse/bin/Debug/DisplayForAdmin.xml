@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu name="MENU">
+
+  <screen Name="screen">
+    <item ID="zero" Text="0 - Return to the main menu">
+    </item>
+    <item ID="one" Text="1 – Previous page"></item>
+    <item ID="two" Text="2 - Next page">
+    </item>
+    <item ID="tree" Text="3 - Select entry by number">
+    </item>
+    <item ID="four" Text="4 - Add a new product"></item>
+    <item ID="five" Text="5 - Edit a product">
+    </item>
+    <item ID="six" Text="6 -Delete a product">
+    </item>
+  </screen>
+</menu>
